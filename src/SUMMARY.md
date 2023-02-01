@@ -5,7 +5,7 @@
 
 ---
 
-- [Fundemantal]()
+- [Fundamental]()
 - [Greedy]()
 - [Dynamic Programming]()
   - [Basic DP]()
